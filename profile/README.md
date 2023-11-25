@@ -1,9 +1,7 @@
-# Sui City World
-Sui City World の公式GitHubです。
-## Sui City Worldとは
-Sui Cityは、GTAのRP（ロールプレイ）やMinecraft、雑談に特化したコミュニティです。
+# Irushia's Home
+Irushia's Home の公式GitHubです。
 
-## [公式サイトへアクセス](http://sui-city-rp.net/)
+## [公式サイトへアクセス](https://www.irushiahomes.com/)
 
  ## 質問がある場合 
- メールアドレス: **info@sui-city-rp.net**
+https://discord.gg/3gTZ4Eem
